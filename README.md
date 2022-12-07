@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ma1021
+- 👋 Hi, I’m Maggie!
 - 👀 I’m interested in web programming
 - 🌱 I’m a curious learner, now learning on React, NestJs, Express... 
 - 💞️ I’m looking for new projects ideas! Building fun and useful applications or websites is one of my interest!
